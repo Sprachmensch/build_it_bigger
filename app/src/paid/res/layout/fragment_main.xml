@@ -17,7 +17,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="164dp"
-        android:text="@string/instructions_paid"
+        android:text="@string/instructions"
         android:textColor="#212121" />
 
     <Button
